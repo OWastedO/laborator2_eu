@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//Cel mai smek cod
+
 int function(int x){
 	x=x-2;
 	if(x<0)
